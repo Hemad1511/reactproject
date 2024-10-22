@@ -10,7 +10,8 @@ step 7: push origin main - 100% done
 step 8: pull origin main
 
 remove cdn links in index.html
-npm install
+npm init
+npm install -D parcel
 npx parcel index.html
 npm install react
 npm install react.dom
